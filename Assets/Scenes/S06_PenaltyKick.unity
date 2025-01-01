@@ -426,6 +426,13 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
+=======
+    - target: {fileID: 4572298830828803177, guid: 0e11ac85bb52f9641a6a4fe7e75e7824, type: 3}
+      propertyPath: m_MinVertexDistance
+      value: 0.1
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes
     - target: {fileID: 5375066968361598722, guid: 0e11ac85bb52f9641a6a4fe7e75e7824, type: 3}
       propertyPath: m_IsActive
       value: 1
